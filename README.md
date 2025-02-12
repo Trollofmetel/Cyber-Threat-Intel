@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=PYZ9z8x2VmM&list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X
 Cyber Threat Intel:
 Cyber intel cycle
 https://www.youtube.com/watch?v=J7e74QLVxCk&t=130s
+
+Computer forenics:
+https://www.swgde.org
